@@ -1,0 +1,63 @@
+
+body {
+    font-family: sans-serif;
+}
+
+header img{
+    height: 100px;
+}
+
+header{
+    background-color: blue;
+}
+
+nav{
+   text-align: center; 
+}
+
+nav a{
+    border: 3px solid black;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    margin-right: 30px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+nav img{
+    border: 1px solid blue;
+    background-color: blue;
+    padding: 50px;
+    height: 300px;
+}
+
+main p{
+    border:3px solid black ;
+}
+
+footer{
+    background-color:lightblue;
+    padding: 10px;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+
+.o{
+    color: blue;
+}
+
+.img{
+    height: 200px;
+}
+
+
+
+
